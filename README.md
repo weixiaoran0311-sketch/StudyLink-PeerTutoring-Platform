@@ -29,5 +29,10 @@ Progress was tracked via **Trello** (Kanban board, burndown charts) and this **G
 
 ## Quick Links
 - Trello Board: [paste your Trello public link here, or screenshot in report]  
-- Use Case Diagram: See /design folder  
+- Use Case Diagram: See /design folder
+
+## Quick Links - Planning Artifacts
+- Product Vision: [/planning/Product-Vision.md](/planning/Product-Vision.md)
+- Product Backlog: [/planning/Product-Backlog.md](/planning/Product-Backlog.md)
+- Use Case Diagram: [/planning/Use-Case-Diagram.png](/planning/Use-Case-Diagram.png)
 
