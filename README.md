@@ -36,3 +36,6 @@ Progress was tracked via **Trello** (Kanban board, burndown charts) and this **G
 - Product Backlog: [/planning/Product-Backlog.md](/planning/Product-Backlog.md)
 - Use Case Diagram: [/planning/Use-Case-Diagram.png](/planning/Use-Case-Diagram.png)
 
+## Quick Links - Design Artifacts
+- Wireframes PDF: [/design/StudyLink-Wireframes-v1.pdf](/design/StudyLink-Wireframes-v1.pdf)
+- Design Notes: [/design/mockups-notes.md](/design/mockups-notes.md)
