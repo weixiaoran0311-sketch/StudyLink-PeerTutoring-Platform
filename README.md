@@ -28,7 +28,7 @@ We followed a structured Software Development Life Cycle (SDLC) using **Agile Sc
 Progress was tracked via **Trello** (Kanban board, burndown charts) and this **GitHub repo** (regular commits, folder organization aligned with SDLC phases). See /planning, /design, /testing, /final folders for details.
 
 ## Quick Links
-- Trello Board: [paste your Trello public link here, or screenshot in report]  
+- Trello Board: [https://docs.google.com/document/d/1gJb9RS6ALm9vQZLK2k2Uk_CKhujzy-g8amE6MkjWKCs/edit?usp=sharing]  
 - Use Case Diagram: See /design folder
 
 ## Quick Links - Planning Artifacts
