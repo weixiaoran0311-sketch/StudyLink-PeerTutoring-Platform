@@ -37,5 +37,5 @@ Progress was tracked via **Trello** (Kanban board, burndown charts) and this **G
 - Use Case Diagram: [/planning/Use-Case-Diagram.png](/planning/Use-Case-Diagram.png)
 
 ## Quick Links - Design Artifacts
-- Wireframes PDF: [/design/StudyLink-Wireframes-v1.pdf](/design/StudyLink-Wireframes-v1.pdf)
+- Wireframes fig: [/design/StudyLink Wireframes.fig](/design/StudyLink Wireframes.fig)
 - Design Notes: [/design/mockups-notes.md](/design/mockups-notes.md)
