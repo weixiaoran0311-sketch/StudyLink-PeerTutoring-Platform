@@ -39,3 +39,7 @@ Progress was tracked via **Trello** (Kanban board, burndown charts) and this **G
 ## Quick Links - Design Artifacts
 - Wireframes fig: [/design/StudyLink Wireframes.fig](/design/StudyLink Wireframes.fig)
 - Design Notes: [/design/mockups-notes.md](/design/mockups-notes.md)
+
+## Quick Links - Prototype
+- Prototype Demo Screenshots: See /design folder (Prototype-Demo-*.png)
+- Figma Prototype Link: [https://www.figma.com/design/O0xe5aAGEAulKUbTVdfYqU/StudyLink-Wireframes?node-id=0-1&t=Okmka21sKhnQGvHP-1]
