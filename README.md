@@ -5,11 +5,11 @@
 This prototype supports SDG 4 by promoting inclusive and equitable access to academic support in higher education, enabling freshmen to receive timely peer help from seniors.
 
 ## Team Members & Roles
-- Group Leader: [WEI XIAO RAN] (Student ID: 0388445) - Project coordination, README & final integration  
-- Member 1: [Shaikh Muhammad Wahid Uz Zaman] (ID: 0388043) - Use Case Diagram & requirements analysis  
-- Member 2: [Zhao manman] (ID: 0386269) - Wireframes & design  
-- Member 3: [Wang Weixu] (ID: 0386168) - Prototype development & testing  
-- Member 4: [Wu YiXiu] (ID: 0389003) - Trello management & burndown charts  
+- Group Leader: [WEI XIAO RAN] (Student ID: 0388445) - Project coordination, Design, Prototype development
+- Member 1: [Shaikh Muhammad Wahid Uz Zaman] (ID: 0388043) - Use Case Diagram, Trello management
+- Member 2: [Zhao manman] (ID: 0386269) -  Requirements analysis
+- Member 3: [Wang Weixu] (ID: 0386168) - Class Diagram, Testing
+- Member 4: [Wu YiXiu] (ID: 0389003) - Create Product Backlog
 
 ## Project Description
 **StudyLink** is a simple web-based platform where:  
@@ -20,10 +20,10 @@ It helps **freshman students** at Taylor's University (or Malaysian universities
 
 ## Overview of SDLC Work
 We followed a structured Software Development Life Cycle (SDLC) using **Agile Scrum** over two sprints:  
-- **Planning**: Defined Product Vision, gathered requirements, created Product Backlog with user stories, drew Use Case Diagram.  
+- **Planning**: Defined Product Vision, gathered requirements, created Product Backlog with user stories, drew Use Case Diagram and Class Diagram.  
 - **Design**: Created low-fidelity wireframes and mockups for key screens (login, public board, post request, assignment view).  
 - **Implementation**: Built a clickable prototype (using HTML/CSS/JS or Figma).  
-- **Testing/Evaluation**: Conducted functional tests and usability feedback from 8 peers, recorded improvements.  
+- **Testing/Evaluation**: Conducted functional tests and usability feedback from 5 peers, recorded improvements.  
 
 Progress was tracked via **Trello** (Kanban board, burndown charts) and this **GitHub repo** (regular commits, folder organization aligned with SDLC phases). See /planning, /design, /testing, /final folders for details.
 
